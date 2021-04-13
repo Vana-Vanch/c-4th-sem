@@ -1,0 +1,26 @@
+/home/vana/cc/mca/dotnet/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld
+/home/vana/cc/mca/dotnet/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.deps.json
+/home/vana/cc/mca/dotnet/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.json
+/home/vana/cc/mca/dotnet/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.dev.json
+/home/vana/cc/mca/dotnet/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.dll
+/home/vana/cc/mca/dotnet/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.pdb
+/home/vana/cc/mca/dotnet/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csprojAssemblyReference.cache
+/home/vana/cc/mca/dotnet/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfoInputs.cache
+/home/vana/cc/mca/dotnet/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfo.cs
+/home/vana/cc/mca/dotnet/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csproj.CoreCompileInputs.cache
+/home/vana/cc/mca/dotnet/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.dll
+/home/vana/cc/mca/dotnet/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.pdb
+/home/vana/cc/mca/dotnet/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.genruntimeconfig.cache
+/home/vana/cc/mca/4th sem/c#/project/c-4th-sem/14/bin/Debug/netcoreapp3.1/HelloWorld
+/home/vana/cc/mca/4th sem/c#/project/c-4th-sem/14/bin/Debug/netcoreapp3.1/HelloWorld.deps.json
+/home/vana/cc/mca/4th sem/c#/project/c-4th-sem/14/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.json
+/home/vana/cc/mca/4th sem/c#/project/c-4th-sem/14/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.dev.json
+/home/vana/cc/mca/4th sem/c#/project/c-4th-sem/14/bin/Debug/netcoreapp3.1/HelloWorld.dll
+/home/vana/cc/mca/4th sem/c#/project/c-4th-sem/14/bin/Debug/netcoreapp3.1/HelloWorld.pdb
+/home/vana/cc/mca/4th sem/c#/project/c-4th-sem/14/obj/Debug/netcoreapp3.1/HelloWorld.csprojAssemblyReference.cache
+/home/vana/cc/mca/4th sem/c#/project/c-4th-sem/14/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfoInputs.cache
+/home/vana/cc/mca/4th sem/c#/project/c-4th-sem/14/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfo.cs
+/home/vana/cc/mca/4th sem/c#/project/c-4th-sem/14/obj/Debug/netcoreapp3.1/HelloWorld.csproj.CoreCompileInputs.cache
+/home/vana/cc/mca/4th sem/c#/project/c-4th-sem/14/obj/Debug/netcoreapp3.1/HelloWorld.dll
+/home/vana/cc/mca/4th sem/c#/project/c-4th-sem/14/obj/Debug/netcoreapp3.1/HelloWorld.pdb
+/home/vana/cc/mca/4th sem/c#/project/c-4th-sem/14/obj/Debug/netcoreapp3.1/HelloWorld.genruntimeconfig.cache
