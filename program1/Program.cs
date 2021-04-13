@@ -35,6 +35,7 @@ namespace HelloWorld
             }
             program1 obj = new program1();
             obj.even_odd(arr);
+            Console.ReadLine();
         }
     }
 }
