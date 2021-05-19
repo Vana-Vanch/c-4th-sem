@@ -1,0 +1,7 @@
+c:\users\vana\documents\visual studio 2010\Projects\pROGRAMnO5\pROGRAMnO5\bin\Debug\pROGRAMnO5.exe
+c:\users\vana\documents\visual studio 2010\Projects\pROGRAMnO5\pROGRAMnO5\bin\Debug\pROGRAMnO5.pdb
+c:\users\vana\documents\visual studio 2010\Projects\pROGRAMnO5\pROGRAMnO5\obj\x86\Debug\pROGRAMnO5.Form1.resources
+c:\users\vana\documents\visual studio 2010\Projects\pROGRAMnO5\pROGRAMnO5\obj\x86\Debug\pROGRAMnO5.Properties.Resources.resources
+c:\users\vana\documents\visual studio 2010\Projects\pROGRAMnO5\pROGRAMnO5\obj\x86\Debug\pROGRAMnO5.csproj.GenerateResource.Cache
+c:\users\vana\documents\visual studio 2010\Projects\pROGRAMnO5\pROGRAMnO5\obj\x86\Debug\pROGRAMnO5.exe
+c:\users\vana\documents\visual studio 2010\Projects\pROGRAMnO5\pROGRAMnO5\obj\x86\Debug\pROGRAMnO5.pdb

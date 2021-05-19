@@ -1,0 +1,8 @@
+c:\users\vana\documents\visual studio 2010\Projects\PROGRAMNO6\PROGRAMNO6\bin\Debug\PROGRAMNO6.exe
+c:\users\vana\documents\visual studio 2010\Projects\PROGRAMNO6\PROGRAMNO6\bin\Debug\PROGRAMNO6.pdb
+c:\users\vana\documents\visual studio 2010\Projects\PROGRAMNO6\PROGRAMNO6\obj\x86\Debug\PROGRAMNO6.Form1.resources
+c:\users\vana\documents\visual studio 2010\Projects\PROGRAMNO6\PROGRAMNO6\obj\x86\Debug\PROGRAMNO6.Properties.Resources.resources
+c:\users\vana\documents\visual studio 2010\Projects\PROGRAMNO6\PROGRAMNO6\obj\x86\Debug\PROGRAMNO6.csproj.GenerateResource.Cache
+c:\users\vana\documents\visual studio 2010\Projects\PROGRAMNO6\PROGRAMNO6\obj\x86\Debug\PROGRAMNO6.exe
+c:\users\vana\documents\visual studio 2010\Projects\PROGRAMNO6\PROGRAMNO6\obj\x86\Debug\PROGRAMNO6.pdb
+C:\Users\vana\documents\visual studio 2010\Projects\PROGRAMNO6\PROGRAMNO6\obj\x86\Debug\PROGRAMNO6.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+c:\users\vana\documents\visual studio 2010\Projects\program_nambar1\program_nambar1\bin\Debug\program_nambar1.exe
+c:\users\vana\documents\visual studio 2010\Projects\program_nambar1\program_nambar1\bin\Debug\program_nambar1.pdb
+c:\users\vana\documents\visual studio 2010\Projects\program_nambar1\program_nambar1\obj\x86\Debug\program_nambar1.exe
+c:\users\vana\documents\visual studio 2010\Projects\program_nambar1\program_nambar1\obj\x86\Debug\program_nambar1.pdb

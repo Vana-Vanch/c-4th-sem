@@ -1,0 +1,7 @@
+c:\users\vana\documents\visual studio 2010\Projects\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+c:\users\vana\documents\visual studio 2010\Projects\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+c:\users\vana\documents\visual studio 2010\Projects\WindowsFormsApp4\WindowsFormsApp4\obj\x86\Debug\WindowsFormsApp4.Form1.resources
+c:\users\vana\documents\visual studio 2010\Projects\WindowsFormsApp4\WindowsFormsApp4\obj\x86\Debug\WindowsFormsApp4.Properties.Resources.resources
+c:\users\vana\documents\visual studio 2010\Projects\WindowsFormsApp4\WindowsFormsApp4\obj\x86\Debug\WindowsFormsApp4.csproj.GenerateResource.Cache
+c:\users\vana\documents\visual studio 2010\Projects\WindowsFormsApp4\WindowsFormsApp4\obj\x86\Debug\WindowsFormsApp4.exe
+c:\users\vana\documents\visual studio 2010\Projects\WindowsFormsApp4\WindowsFormsApp4\obj\x86\Debug\WindowsFormsApp4.pdb
