@@ -1,0 +1,9 @@
+c:\users\vana\documents\visual studio 2010\Projects\nmabar10\nmabar10\bin\Debug\nmabar10.exe
+c:\users\vana\documents\visual studio 2010\Projects\nmabar10\nmabar10\bin\Debug\nmabar10.pdb
+c:\users\vana\documents\visual studio 2010\Projects\nmabar10\nmabar10\obj\x86\Debug\nmabar10.Form1.resources
+c:\users\vana\documents\visual studio 2010\Projects\nmabar10\nmabar10\obj\x86\Debug\nmabar10.Properties.Resources.resources
+c:\users\vana\documents\visual studio 2010\Projects\nmabar10\nmabar10\obj\x86\Debug\nmabar10.csproj.GenerateResource.Cache
+c:\users\vana\documents\visual studio 2010\Projects\nmabar10\nmabar10\obj\x86\Debug\nmabar10.exe
+c:\users\vana\documents\visual studio 2010\Projects\nmabar10\nmabar10\obj\x86\Debug\nmabar10.pdb
+c:\users\vana\documents\visual studio 2010\Projects\nmabar10\nmabar10\obj\x86\Debug\nmabar10.Form2.resources
+c:\users\vana\documents\visual studio 2010\Projects\nmabar10\nmabar10\obj\x86\Debug\nmabar10.Form3.resources

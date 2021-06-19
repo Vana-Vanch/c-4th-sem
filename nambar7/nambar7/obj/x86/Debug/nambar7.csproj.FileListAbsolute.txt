@@ -1,0 +1,7 @@
+c:\users\vana\documents\visual studio 2010\Projects\nambar7\nambar7\bin\Debug\nambar7.exe
+c:\users\vana\documents\visual studio 2010\Projects\nambar7\nambar7\bin\Debug\nambar7.pdb
+c:\users\vana\documents\visual studio 2010\Projects\nambar7\nambar7\obj\x86\Debug\nambar7.Form1.resources
+c:\users\vana\documents\visual studio 2010\Projects\nambar7\nambar7\obj\x86\Debug\nambar7.Properties.Resources.resources
+c:\users\vana\documents\visual studio 2010\Projects\nambar7\nambar7\obj\x86\Debug\nambar7.csproj.GenerateResource.Cache
+c:\users\vana\documents\visual studio 2010\Projects\nambar7\nambar7\obj\x86\Debug\nambar7.exe
+c:\users\vana\documents\visual studio 2010\Projects\nambar7\nambar7\obj\x86\Debug\nambar7.pdb

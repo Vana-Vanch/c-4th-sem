@@ -1,0 +1,7 @@
+c:\users\vana\documents\visual studio 2010\Projects\NAMBAR9\NAMBAR9\bin\Debug\NAMBAR9.exe
+c:\users\vana\documents\visual studio 2010\Projects\NAMBAR9\NAMBAR9\bin\Debug\NAMBAR9.pdb
+c:\users\vana\documents\visual studio 2010\Projects\NAMBAR9\NAMBAR9\obj\x86\Debug\NAMBAR9.Form1.resources
+c:\users\vana\documents\visual studio 2010\Projects\NAMBAR9\NAMBAR9\obj\x86\Debug\NAMBAR9.Properties.Resources.resources
+c:\users\vana\documents\visual studio 2010\Projects\NAMBAR9\NAMBAR9\obj\x86\Debug\NAMBAR9.csproj.GenerateResource.Cache
+c:\users\vana\documents\visual studio 2010\Projects\NAMBAR9\NAMBAR9\obj\x86\Debug\NAMBAR9.exe
+c:\users\vana\documents\visual studio 2010\Projects\NAMBAR9\NAMBAR9\obj\x86\Debug\NAMBAR9.pdb

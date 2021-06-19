@@ -1,0 +1,7 @@
+c:\users\vana\documents\visual studio 2010\Projects\NAMBAR8\NAMBAR8\bin\Debug\NAMBAR8.exe
+c:\users\vana\documents\visual studio 2010\Projects\NAMBAR8\NAMBAR8\bin\Debug\NAMBAR8.pdb
+c:\users\vana\documents\visual studio 2010\Projects\NAMBAR8\NAMBAR8\obj\x86\Debug\NAMBAR8.Form1.resources
+c:\users\vana\documents\visual studio 2010\Projects\NAMBAR8\NAMBAR8\obj\x86\Debug\NAMBAR8.Properties.Resources.resources
+c:\users\vana\documents\visual studio 2010\Projects\NAMBAR8\NAMBAR8\obj\x86\Debug\NAMBAR8.csproj.GenerateResource.Cache
+c:\users\vana\documents\visual studio 2010\Projects\NAMBAR8\NAMBAR8\obj\x86\Debug\NAMBAR8.exe
+c:\users\vana\documents\visual studio 2010\Projects\NAMBAR8\NAMBAR8\obj\x86\Debug\NAMBAR8.pdb
